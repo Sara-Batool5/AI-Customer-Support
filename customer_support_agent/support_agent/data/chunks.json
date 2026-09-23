@@ -1,6 +1,332 @@
 [
   {
     "id": 0,
+    "text": "Refund & Return Policy — Eligibility: Items can be returned within 7 days of delivery, provided they are unused, in their original packaging, and with all tags and accessories intact. Perishable or hygiene-sensitive items (e.g. earbuds, personal care accessories) can only be returned if the packaging is unopened.",
+    "metadata": {
+      "chunk_id": "chunk_0",
+      "source_filename": "refund_policy.md",
+      "source_path": "data/knowledge_docs/refund_policy.md",
+      "page_number": 1,
+      "chunk_number": 1,
+      "doc_type": "policy"
+    }
+  },
+  {
+    "id": 1,
+    "text": "Refund & Return Policy — How to request a refund or return: Customers should contact support with their Order ID and the reason for the return. Once approved, a reverse pickup will be scheduled from the shipping address on the order, or the customer may drop the item at the nearest partner courier office.",
+    "metadata": {
+      "chunk_id": "chunk_1",
+      "source_filename": "refund_policy.md",
+      "source_path": "data/knowledge_docs/refund_policy.md",
+      "page_number": 1,
+      "chunk_number": 2,
+      "doc_type": "policy"
+    }
+  },
+  {
+    "id": 2,
+    "text": "Refund & Return Policy — Refund timeline: Once the returned item is received and inspected, refunds are processed within 5-7 business days. Refunds are issued to the original payment method. For Cash on Delivery (COD) orders, refunds are issued via bank transfer or JazzCash/Easypaisa, and the customer will be asked to share their account details securely.",
+    "metadata": {
+      "chunk_id": "chunk_2",
+      "source_filename": "refund_policy.md",
+      "source_path": "data/knowledge_docs/refund_policy.md",
+      "page_number": 1,
+      "chunk_number": 3,
+      "doc_type": "policy"
+    }
+  },
+  {
+    "id": 3,
+    "text": "Refund & Return Policy — Non-refundable situations: - Items damaged due to customer misuse\n- Items returned after the 7-day window without a valid reason\n- Orders marked \"Delivered\" for more than 15 days with no return request filed\n- Customized or made-to-order items, unless defective",
+    "metadata": {
+      "chunk_id": "chunk_3",
+      "source_filename": "refund_policy.md",
+      "source_path": "data/knowledge_docs/refund_policy.md",
+      "page_number": 1,
+      "chunk_number": 4,
+      "doc_type": "policy"
+    }
+  },
+  {
+    "id": 4,
+    "text": "Refund & Return Policy — Exchanges: Exchanges (e.g. wrong size or color) are treated as a return + new order. Customers should request a return for the original item and place a new order for the correct item; support can help expedite this.",
+    "metadata": {
+      "chunk_id": "chunk_4",
+      "source_filename": "refund_policy.md",
+      "source_path": "data/knowledge_docs/refund_policy.md",
+      "page_number": 1,
+      "chunk_number": 5,
+      "doc_type": "policy"
+    }
+  },
+  {
+    "id": 5,
+    "text": "Refund & Return Policy — Damaged or wrong item received: If a customer receives a damaged, defective, or incorrect item, they should report it within 48 hours of delivery with photos of the item and packaging. In these cases, the return shipping cost is covered by the company, and a full refund or free replacement is offered — customer's choice.",
+    "metadata": {
+      "chunk_id": "chunk_5",
+      "source_filename": "refund_policy.md",
+      "source_path": "data/knowledge_docs/refund_policy.md",
+      "page_number": 1,
+      "chunk_number": 6,
+      "doc_type": "policy"
+    }
+  },
+  {
+    "id": 6,
+    "text": "Shipping & Delivery Policy — Delivery areas: We deliver across Pakistan, including Karachi, Lahore, Islamabad, Rawalpindi, Faisalabad, Multan, Peshawar, Quetta, and most other major cities and towns via our courier partners.",
+    "metadata": {
+      "chunk_id": "chunk_6",
+      "source_filename": "shipping_policy.md",
+      "source_path": "data/knowledge_docs/shipping_policy.md",
+      "page_number": 1,
+      "chunk_number": 1,
+      "doc_type": "policy"
+    }
+  },
+  {
+    "id": 7,
+    "text": "Shipping & Delivery Policy — Delivery timelines: - Major cities (Karachi, Lahore, Islamabad, Rawalpindi): 2-4 business days\n- Other cities and towns: 4-7 business days\n- Remote or rural areas: 7-10 business days\n\nDelivery timelines are estimates and may be affected by weather, public holidays, or courier delays.",
+    "metadata": {
+      "chunk_id": "chunk_7",
+      "source_filename": "shipping_policy.md",
+      "source_path": "data/knowledge_docs/shipping_policy.md",
+      "page_number": 1,
+      "chunk_number": 2,
+      "doc_type": "policy"
+    }
+  },
+  {
+    "id": 8,
+    "text": "Shipping & Delivery Policy — Shipping charges: Orders above PKR 3,000 qualify for free standard shipping. Orders below this amount incur a flat shipping fee of PKR 150-250 depending on the destination city, shown at checkout.",
+    "metadata": {
+      "chunk_id": "chunk_8",
+      "source_filename": "shipping_policy.md",
+      "source_path": "data/knowledge_docs/shipping_policy.md",
+      "page_number": 1,
+      "chunk_number": 3,
+      "doc_type": "policy"
+    }
+  },
+  {
+    "id": 9,
+    "text": "Shipping & Delivery Policy — Order tracking: Once an order is shipped, the customer receives a tracking link via SMS/WhatsApp on the contact number provided at checkout. Order status (Processing, Shipped, Delivered, etc.) can also be checked by providing the Order ID to support.",
+    "metadata": {
+      "chunk_id": "chunk_9",
+      "source_filename": "shipping_policy.md",
+      "source_path": "data/knowledge_docs/shipping_policy.md",
+      "page_number": 1,
+      "chunk_number": 4,
+      "doc_type": "policy"
+    }
+  },
+  {
+    "id": 10,
+    "text": "Shipping & Delivery Policy — Failed delivery attempts: Couriers typically attempt delivery up to 2 times. If both attempts fail (customer unavailable or unreachable), the order is returned to the warehouse and the customer is contacted to arrange re-shipment or cancellation.",
+    "metadata": {
+      "chunk_id": "chunk_10",
+      "source_filename": "shipping_policy.md",
+      "source_path": "data/knowledge_docs/shipping_policy.md",
+      "page_number": 1,
+      "chunk_number": 5,
+      "doc_type": "policy"
+    }
+  },
+  {
+    "id": 11,
+    "text": "Shipping & Delivery Policy — Cash on Delivery (COD): COD is available for most locations. A small COD handling fee may apply in remote areas. Customers are advised to inspect the package before accepting delivery when possible.",
+    "metadata": {
+      "chunk_id": "chunk_11",
+      "source_filename": "shipping_policy.md",
+      "source_path": "data/knowledge_docs/shipping_policy.md",
+      "page_number": 1,
+      "chunk_number": 6,
+      "doc_type": "policy"
+    }
+  },
+  {
+    "id": 12,
+    "text": "Warranty Policy — Standard warranty: Most electronic and hardware accessories (earbuds, smart watches, power banks, speakers, etc.) come with a 6-month warranty against manufacturing defects, starting from the delivery date. Non-electronic items (bags, apparel, home goods) are not covered by this warranty but are covered under the standard Refund & Return Policy for defects found within 7 days.",
+    "metadata": {
+      "chunk_id": "chunk_12",
+      "source_filename": "warranty_policy.md",
+      "source_path": "data/knowledge_docs/warranty_policy.md",
+      "page_number": 1,
+      "chunk_number": 1,
+      "doc_type": "policy"
+    }
+  },
+  {
+    "id": 13,
+    "text": "Warranty Policy — What the warranty covers: - Manufacturing defects (item stops working under normal use)\n- Battery not holding charge (for battery-powered items) within the warranty period\n- Faulty components present at the time of delivery",
+    "metadata": {
+      "chunk_id": "chunk_13",
+      "source_filename": "warranty_policy.md",
+      "source_path": "data/knowledge_docs/warranty_policy.md",
+      "page_number": 1,
+      "chunk_number": 2,
+      "doc_type": "policy"
+    }
+  },
+  {
+    "id": 14,
+    "text": "Warranty Policy — What the warranty does NOT cover: - Physical damage from drops, water, or misuse\n- Damage from unauthorized repairs or modifications\n- Normal wear and tear\n- Loss or theft of the item",
+    "metadata": {
+      "chunk_id": "chunk_14",
+      "source_filename": "warranty_policy.md",
+      "source_path": "data/knowledge_docs/warranty_policy.md",
+      "page_number": 1,
+      "chunk_number": 3,
+      "doc_type": "policy"
+    }
+  },
+  {
+    "id": 15,
+    "text": "Warranty Policy — How to claim warranty: Customers should contact support with their Order ID, a description of the issue, and (where possible) a photo or short video showing the defect. Approved claims are resolved via free repair, replacement, or store credit, at the company's discretion, depending on stock availability.",
+    "metadata": {
+      "chunk_id": "chunk_15",
+      "source_filename": "warranty_policy.md",
+      "source_path": "data/knowledge_docs/warranty_policy.md",
+      "page_number": 1,
+      "chunk_number": 4,
+      "doc_type": "policy"
+    }
+  },
+  {
+    "id": 16,
+    "text": "Warranty Policy — Warranty claim timeline: Warranty claims are typically reviewed within 3-5 business days of submission. If a replacement is approved, it is shipped within 5-7 business days after the defective item is received back (where a return is required).",
+    "metadata": {
+      "chunk_id": "chunk_16",
+      "source_filename": "warranty_policy.md",
+      "source_path": "data/knowledge_docs/warranty_policy.md",
+      "page_number": 1,
+      "chunk_number": 5,
+      "doc_type": "policy"
+    }
+  },
+  {
+    "id": 17,
+    "text": "Order Cancellation Policy — Cancelling before shipment: Orders can be cancelled free of charge any time before their status changes to \"Shipped.\" Customers can request cancellation by providing their Order ID to support, and any payment made (for prepaid orders) is refunded within 5-7 business days.",
+    "metadata": {
+      "chunk_id": "chunk_17",
+      "source_filename": "order_cancellation_policy.md",
+      "source_path": "data/knowledge_docs/order_cancellation_policy.md",
+      "page_number": 1,
+      "chunk_number": 1,
+      "doc_type": "policy"
+    }
+  },
+  {
+    "id": 18,
+    "text": "Order Cancellation Policy — Cancelling after shipment: Once an order status is \"Shipped,\" it can no longer be cancelled directly. In this case, the customer may refuse the delivery at the doorstep, or request a return once it is marked \"Delivered,\" following the standard Refund & Return Policy.",
+    "metadata": {
+      "chunk_id": "chunk_18",
+      "source_filename": "order_cancellation_policy.md",
+      "source_path": "data/knowledge_docs/order_cancellation_policy.md",
+      "page_number": 1,
+      "chunk_number": 2,
+      "doc_type": "policy"
+    }
+  },
+  {
+    "id": 19,
+    "text": "Order Cancellation Policy — Cancellations initiated by the company: Occasionally an order may be cancelled by the company due to stock unavailability, a pricing error, or an undeliverable address. In these cases, the customer is notified immediately, and any prepaid amount is refunded in full within 5-7 business days, no questions asked.",
+    "metadata": {
+      "chunk_id": "chunk_19",
+      "source_filename": "order_cancellation_policy.md",
+      "source_path": "data/knowledge_docs/order_cancellation_policy.md",
+      "page_number": 1,
+      "chunk_number": 3,
+      "doc_type": "policy"
+    }
+  },
+  {
+    "id": 20,
+    "text": "Order Cancellation Policy — Partial cancellations: For orders with multiple items, a customer can request cancellation of individual items as long as those specific items have not yet shipped. The rest of the order proceeds normally.",
+    "metadata": {
+      "chunk_id": "chunk_20",
+      "source_filename": "order_cancellation_policy.md",
+      "source_path": "data/knowledge_docs/order_cancellation_policy.md",
+      "page_number": 1,
+      "chunk_number": 4,
+      "doc_type": "policy"
+    }
+  },
+  {
+    "id": 21,
+    "text": "Frequently Asked Questions — How do I check my order status?: Provide your Order ID (e.g. ORD-1001) or the name the order was placed under, and support can look up the current status: Processing, Shipped, Delivered, Pending, or Cancelled.",
+    "metadata": {
+      "chunk_id": "chunk_21",
+      "source_filename": "faq.md",
+      "source_path": "data/knowledge_docs/faq.md",
+      "page_number": 1,
+      "chunk_number": 1,
+      "doc_type": "faq"
+    }
+  },
+  {
+    "id": 22,
+    "text": "Frequently Asked Questions — What payment methods are accepted?: We accept Cash on Delivery (COD), JazzCash, Easypaisa, bank transfer, and major debit/credit cards at checkout.",
+    "metadata": {
+      "chunk_id": "chunk_22",
+      "source_filename": "faq.md",
+      "source_path": "data/knowledge_docs/faq.md",
+      "page_number": 1,
+      "chunk_number": 2,
+      "doc_type": "faq"
+    }
+  },
+  {
+    "id": 23,
+    "text": "Frequently Asked Questions — How can I change my shipping address after placing an order?: Address changes are only possible while the order is still in \"Processing\" status. Once an order is \"Shipped,\" the address cannot be changed, but customers can coordinate directly with the courier for redelivery options where available.",
+    "metadata": {
+      "chunk_id": "chunk_23",
+      "source_filename": "faq.md",
+      "source_path": "data/knowledge_docs/faq.md",
+      "page_number": 1,
+      "chunk_number": 3,
+      "doc_type": "faq"
+    }
+  },
+  {
+    "id": 24,
+    "text": "Frequently Asked Questions — Do you ship internationally?: Currently we only ship within Pakistan. International shipping is not available at this time.",
+    "metadata": {
+      "chunk_id": "chunk_24",
+      "source_filename": "faq.md",
+      "source_path": "data/knowledge_docs/faq.md",
+      "page_number": 1,
+      "chunk_number": 4,
+      "doc_type": "faq"
+    }
+  },
+  {
+    "id": 25,
+    "text": "Frequently Asked Questions — How do I contact human support directly?: Customers can ask to speak with a human agent at any point in the chat, and their request along with a summary of the issue will be forwarded to the support team for follow-up.",
+    "metadata": {
+      "chunk_id": "chunk_25",
+      "source_filename": "faq.md",
+      "source_path": "data/knowledge_docs/faq.md",
+      "page_number": 1,
+      "chunk_number": 5,
+      "doc_type": "faq"
+    }
+  },
+  {
+    "id": 26,
+    "text": "Frequently Asked Questions — Are the products genuine/original?: Yes, all products sold are 100% genuine and sourced directly from authorized distributors or manufacturers.",
+    "metadata": {
+      "chunk_id": "chunk_26",
+      "source_filename": "faq.md",
+      "source_path": "data/knowledge_docs/faq.md",
+      "page_number": 1,
+      "chunk_number": 6,
+      "doc_type": "faq"
+    }
+  }
+]
+[
+  {
+    "id": 0,
     "chunk_id": "chunk_0",
     "text": "Order ORD-1001 was placed by Rizwan Haider, contact number +92-307-1419610. The customer ordered a Wall Clock on 2024-10-08. Shipping address: Flat 229, G-9 Town, Hyderabad. Current order status: Processing."
   },
